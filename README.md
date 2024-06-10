@@ -1,5 +1,7 @@
 # Smooth Reveal Text Animation
 
+https://github.com/Mohsinech/Smooth-reveal-text-animation/assets/93294675/2c7fafe0-99cb-4377-9e77-609389dcb86d
+
 This project showcases a smooth reveal text animation using the 'Neue Montreal' font. Ensure you have 'Neue Montreal' installed on your system to see the correct font.
 
 ## Features
